@@ -1,13 +1,14 @@
-jasmine-run (Jasmine Spec Runner in 1 line)
+Simple Jasmine Spec Runner
 ===========
 
-Jasmine one-line embed. A single script to embed [jasmine](http://pivotal.github.com/jasmine/) and bootstrap your .
+Bootstrap your [Jasmine](http://pivotal.github.com/jasmine/) unit testing with a single script tag.
 
-All you need to do is include one script file as this [live example](http://daniellmb.github.com/jasmine-run/example/jasmin-run.html) shows.
-
-```
+``` javascript
 http://daniellmb.github.com/jasmine-run/jasmine-run.js
 ```
+
+Just include the script file as this
+[live example](http://daniellmb.github.com/jasmine-run/example/jasmin-run.html) shows, and your ready to run specs!
 
 ``` html
 <!DOCTYPE html>
