@@ -12,9 +12,9 @@ Just include the script file as this
 
 ``` html
 <!DOCTYPE html>
-</html>
+<html>
 <head>
-    <title>Jasmine Run</title>
+    <title>Unit Tests</title>
 </head>
 <body>
     <!-- include jasmine-run -->
