@@ -3,8 +3,10 @@ Simple Jasmine Spec Runner
 
 Bootstrap your [Jasmine](http://pivotal.github.com/jasmine/) unit testing with a single script tag.
 
-``` javascript
-http://daniellmb.github.com/jasmine-run/jasmine-run.js
+```
+http://daniellmb.github.com/jasmine-run/jasmine-1.3.1-run.js
+- OR -
+http://daniellmb.github.com/jasmine-run/jasmine-2.0.0-run.js
 ```
 
 Just include the script file as this
@@ -18,7 +20,7 @@ Just include the script file as this
 </head>
 <body>
     <!-- include jasmine-run -->
-    <script type="text/javascript" src="http://daniellmb.github.com/jasmine-run/jasmine-run.js"></script>
+    <script type="text/javascript" src="http://daniellmb.github.com/jasmine-run/jasmine-1.3.1-run.js"></script>
 
     <!-- sources to test -->
     <script type="text/javascript" src="example.js"></script>
