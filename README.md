@@ -1,7 +1,7 @@
 Simple Jasmine Spec Runner
 ===========
 
-Bootstrap your [Jasmine](http://pivotal.github.com/jasmine/) unit testing with a single script tag.
+Bootstrap your [Jasmine](https://jasmine.github.io/) unit testing with a single script tag.
 
 ```
 http://daniellmb.github.com/jasmine-run/jasmine-1.3.1-run.js
